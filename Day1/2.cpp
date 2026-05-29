@@ -4,8 +4,8 @@ int main()
 {
     int a;
     cout << "Enter a number:  ";
-    cin >> n;
-    cout << "Table of " << n << "is :\a";
+    cin >> a;
+    cout << "Table of " << a << "is :\a";
     
     for (int i= 1; i<=10;i++)
     {

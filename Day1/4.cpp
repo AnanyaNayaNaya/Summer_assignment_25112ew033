@@ -24,5 +24,5 @@ int main()
     }
     cout << "Number of digits:  " << count << endl;
 
-    return0;
+    return 0;
 }
